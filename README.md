@@ -1,2 +1,1 @@
-# sparse-distributions
-Sparse relaxations to binary random variables
+I've moved to [dists.pt](https://github.com/probabll/dists.pt)
